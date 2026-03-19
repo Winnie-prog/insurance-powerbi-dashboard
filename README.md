@@ -38,15 +38,6 @@ Insurance datasets are often complex and difficult to interpret, making it hard 
 - KPI tracking (Premiums, Claims, Losses)
 - Clean and user-friendly layout
 
----
----
-
-## 📁 Files Included
-- Power BI (.pbix) file *(if you upload it)*
-- Dashboard screenshots
-- Supporting data (if allowed)
-
----
 
 ## 🚀 What I Learned
 This project improved my skills in:
