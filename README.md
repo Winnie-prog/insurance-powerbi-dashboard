@@ -39,11 +39,6 @@ Insurance datasets are often complex and difficult to interpret, making it hard 
 - Clean and user-friendly layout
 
 ---
-
-## 🎥 Project Walkthrough
-Watch the dashboard in action:  
-https://www.youtube.com/watch?v=TazNFzgWtgA&t=3005s
-
 ---
 
 ## 📁 Files Included
