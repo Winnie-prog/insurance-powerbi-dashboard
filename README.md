@@ -22,6 +22,7 @@ Insurance datasets are often complex and difficult to interpret, making it hard 
 - Detected periods with high loss concentration
 - Observed a period with **zero losses**, indicating strong performance
 - Highlighted trends that impact overall profitability
+<img width="1467" height="776" alt="image" src="https://github.com/user-attachments/assets/c3f27746-de2a-4f70-b3f2-7b8ed5e1afde" />
 
 ---
 
